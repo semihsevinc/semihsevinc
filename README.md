@@ -6,9 +6,9 @@
 Hi there, I'm <a href="http://www.semihsevinc.click/" target="_blank" rel="noreferrer">Semih</a> 👋
 </h3>
 
-<h2 align="left">
+<h3 align="left">
 I'm a Electrical Electronics Engineer 📚, Interested in Embedded Systems 💻, and Road Biker 🚲
-</h2> 
+</h3> 
 
 I have been able to learn how to communicate effectively due to the fact that I have led many teams during my university education. Apart from my education, I am developing myself in machine learning, image processing, data science and of course electronic hardware design.
 
