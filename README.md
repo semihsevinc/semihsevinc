@@ -7,7 +7,7 @@ Hi there, I'm <a href="http://www.semihsevinc.click/" target="_blank" rel="noref
 </h3>
 
 <h3 align="left">
-I'm a Electrical Electronics Engineer 📚, Interested in Embedded Systems 💻, and Road Biker 🚲
+I'm a Electrical Electronics Engineer 📚 and Road Biker 🚲 Interested in Embedded Systems 💻
 </h3> 
 
 I have been able to learn how to communicate effectively due to the fact that I have led many teams during my university education. Apart from my education, I am developing myself in machine learning, image processing, data science and of course electronic hardware design.
