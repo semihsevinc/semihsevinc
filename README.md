@@ -10,7 +10,7 @@ Hi there, I'm <a href="http://www.semihsevinc.click/" target="_blank" rel="noref
 I'm a Electrical Electronics Engineer 📚, Interested in Embedded Systems 💻, and Biker 🚲
 </h2> 
 
-i have been able to learn how to communicate effectively due to the fact that I have led many teams during my university education. Apart from my education, I am developing myself in machine learning, image processing, data science.
+i have been able to learn how to communicate effectively due to the fact that I have led many teams during my university education. Apart from my education, I am developing myself in machine learning, image processing, data science and of course electronic hardware design.
 
 I have been involved in project and team management on many projects, I have learned that the priorities in the project and the work completed should be measured by the work, not by time. I like to create innovative solutions in an effective team.
 
