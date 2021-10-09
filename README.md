@@ -14,7 +14,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/semihsevinc24/"><img align="left" src="https://raw.githubusercontent.com/semihsevinc/semihsevinc/main/image/linkedin.svg" alt="Semih SEVİNÇ | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/semihsevinc24/"><img align="left" src="https://raw.githubusercontent.com/semihsevinc/semihsevinc/main/image/linkedin.png" alt="Semih SEVİNÇ | LinkedIn" width="21px"/></a>
 
 </br>
 
