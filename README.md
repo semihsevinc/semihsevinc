@@ -7,14 +7,14 @@ Hi there, I'm <a href="http://www.semihsevinc.click/" target="_blank" rel="noref
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Electrical Electronics Engineer 📚, Interested in Embedded Systems 💻, and Biker 🚲
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/semihsevinc24/"><img align="left" src="https://raw.githubusercontent.com/semihsevinc/semihsevinc/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/semihsevinc24/"><img align="left" src="https://raw.githubusercontent.com/semihsevinc/semihsevinc/main/image/linkedin.svg" alt="Semih SEVİNÇ | LinkedIn" width="21px"/></a>
 
 </br>
 
