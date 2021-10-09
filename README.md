@@ -6,7 +6,7 @@
 Hi there, I'm <a href="http://www.semihsevinc.click/" target="_blank" rel="noreferrer">Semih</a> 👋
 </h3>
 
-<h2 align="center">
+<h2 align="left">
 I'm a Electrical Electronics Engineer 📚, Interested in Embedded Systems 💻, and Biker 🚲
 </h2> 
 
