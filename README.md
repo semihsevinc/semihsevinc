@@ -62,8 +62,8 @@ I have been involved in project and team management on many projects, I have lea
 
 ## 📈 GitHub Stats 
 
-[![Semih's github stats](https://github-readme-stats.vercel.app/api?username=semihsevinc)]
+[![Semih's github stats](https://github-readme-stats.vercel.app/api?username=semihsevinc&theme=vision-friendly-dark&show_icons=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihsevinc&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihsevinc&layout=compacttheme=dark)]
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=semihsevinc.semihsevinc)]
