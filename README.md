@@ -64,6 +64,7 @@ I have been involved in project and team management on many projects, I have lea
 
 ## 📝 Latest Blog Posts
 
+- [Word Segmentation](http://www.semihsevinc.click/kelime-segmentasyonu/)
 - [Perspective Transformation](http://www.semihsevinc.click/perspektif-donusumu/)
 
 ## 📈 GitHub Stats 
