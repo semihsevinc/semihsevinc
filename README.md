@@ -23,16 +23,18 @@ I have been involved in project and team management on many projects, I have lea
 ## 🔭 I'm currently working on
 
 - My old projects
-- Handwriting Text Recognition
-- Embedded System
+- Web Development with Django
+- Natural Language Processing
+- Object Recognition
 - My next blog
 
 ## 🌱 I'm currently learning
 
 - Python
-- Matlab/Simulink
-- Electronic Hardware Design
-- Git  
+- Django
+- Computer Vision
+- Git
+- HTML/CSS  
 
 ## 💼 Technical Skills
 
